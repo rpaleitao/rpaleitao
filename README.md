@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rpaleitao
-- 👀 I’m interested in Programming.
 - 🌱 I’m currently learning Computer Science and Engeneering at Polytechnic Institute of Bragança, Portugal.
-- 💞️ I’m looking to collaborate on projects that i'm interested in, that gets my attention and i will do my best to help.
+- 💞️ I’m looking to collaborate on projects that gets my attention and i will do my best to help.
 - 📫 How to reach me ? Simple, just send me an email and I'll answer ASAP -> rpleitao29@outlook.com
 
 <!---
